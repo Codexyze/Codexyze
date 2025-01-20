@@ -21,7 +21,7 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/jetpack/getting-started?_gl=1*11lrrsv*_up*MQ..&gclid=Cj0KCQiAhbi8BhDIARIsAJLOlufNLgRyPUTC9MouFtuYUXhCH3V0XX-qk4RJrJRtJ6opSDQxE7Y522MaAkHzEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVLz_k1XR-X6hxq1KlN0_F2Q3VEXuf3DelA&s" alt="kotlin" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVLz_k1XR-X6hxq1KlN0_F2Q3VEXuf3DelA&s" alt="kotlin" width="60" height="40"/>
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
