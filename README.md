@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Akshay Sarapure</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-- 🔭 I’m currently working on [Fashion Point](https://github.com/Codexyze/FashionPoint)
+- 🔭 I’m currently working on [Lhythm](https://github.com/Codexyze/Lhythm)
 
 - 🌱 I’m currently learning **JetPack Compose , Kmp ,kotlin (Android Development)**
 
 - 📫 How to reach me **akshaysarapure@gmail.com**
 
-- ⚡Some of my learning projects : **Fashion Point , Video Player ,Memes App,Contact App etc..**
+- ⚡Some of my learning projects : **Fashion Point,Guess it ,Lhythm , Video Player ,Memes App,Contact App etc..**
 
 - Check out my Blogs : https://medium.com/@akshaysarapure
 
