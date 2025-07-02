@@ -8,7 +8,8 @@
 - 🔭 Currently working on: **[Lhythm – A Powerful Offline Music Player](https://github.com/Codexyze/Lhythm)**  
 - 🌱 Exploring: **Jetpack Compose | Kotlin Multiplatform (KMP) | Multi Modular Architecture**
 - 💡 Constantly sharpening my skills through my [Android Practice Hub](https://github.com/Codexyze/practice_Set_Code) — a personal playground of concepts, mini-projects, and experiments.  
-- 💌 Reach me at: **akshaysarapure@gmail.com**  
+- 💌 Reach me at: **akshaysarapure@gmail.com**
+- ▶️ My PlayStore Link : https://play.google.com/store/apps/dev?id=9069883027072615264  
 - 🧠 Featured Projects:
   - 🎧 [Lhythm](https://github.com/Codexyze/Lhythm) – Music app with embedded lyrics, media session, playlists & theme switching
   - 🛍️ [Fashion Point](https://github.com/Codexyze/FashionPoint) – E-commerce app with auth, cart, reels & user profile
