@@ -61,7 +61,12 @@
   <a href="https://github.com/Codexyze" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
   </a>
+
 </p>
+
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-akshay-sarapure-portfolio.vercel.app/)
+
 
 ---
 
