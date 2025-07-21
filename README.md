@@ -14,6 +14,7 @@
   - 🎧 [Lhythm](https://github.com/Codexyze/Lhythm) – Music app with embedded lyrics, media session, playlists & theme switching
   - 🛍️ [Fashion Point](https://github.com/Codexyze/FashionPoint) – E-commerce app with auth, cart, reels & user profile
   - 🧠 [DeepShield](https://github.com/Codexyze/DeepFake-Detection) – Deepfake detection client-server ML project
+  - ✂️ [Audio Cutter](https://github.com/Codexyze/Audio_Cutter) -Trim audio and create ringtone .
   - 🎮 [Guess It](https://github.com/Codexyze/Guess_it) – Logic puzzle game in Compose
   - 🎬 [Video Player](https://github.com/Codexyze/Video_Player_App) – Custom video playback using ExoPlayer
   - 😂 [Memes App](https://github.com/Codexyze/MemeApp) - Loads 50 memes from REDIT
