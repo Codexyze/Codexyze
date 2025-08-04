@@ -15,6 +15,7 @@
   - 🛍️ [Fashion Point](https://github.com/Codexyze/FashionPoint) – E-commerce app with auth, cart, reels & user profile
   - 🧠 [DeepShield](https://github.com/Codexyze/DeepFake-Detection) – Deepfake detection client-server ML project
   - ✂️ [Audio Cutter](https://github.com/Codexyze/Audio_Cutter) -Trim audio and create ringtone .
+  - ▶️ PlayStore Link : https://play.google.com/store/apps/details?id=com.nutrino.audiocutter&pcampaignid=web_share
   - 🎮 [Guess It](https://github.com/Codexyze/Guess_it) – Logic puzzle game in Compose
   - 🎬 [Video Player](https://github.com/Codexyze/Video_Player_App) – Custom video playback using ExoPlayer
   - 😂 [Memes App](https://github.com/Codexyze/MemeApp) - Loads 50 memes from REDIT
@@ -30,7 +31,11 @@
 - 🏗️ [MVVM Architecture in Android For Dummies](https://medium.com/@akshaysarapure/mvvm-architecture-in-android-for-dummies-926a882e9088)
 
 ---
+▶️ Published Application :
+- [😂 Meme Store](https://play.google.com/store/apps/details?id=com.nutino.memeapp&pcampaignid=web_share)
+- [✂️ Audio Cutter](https://play.google.com/store/apps/details?id=com.nutrino.audiocutter&pcampaignid=web_share)
 
+---
 ## 👥 Group Contribution Projects
 
 - 🛡️ [DeepShield](https://github.com/Codexyze/DeepFake-Detection) – Client-server deepfake detection app using EfficientNet & Grad-CAM  
